@@ -1,0 +1,243 @@
+Model,Timestamp,Category,Metric,Value
+DQN_Test_2023_Data,2025-10-25_00-33-22,Overall,Total Reward,136.5
+DQN_Test_2023_Data,2025-10-25_00-33-22,Overall,Berth Utilization Rate,0.25507379278875986
+DQN_Test_2023_Data,2025-10-25_00-33-22,Overall,Total Vessel Waiting Time,1415.2666666666664
+DQN_Test_2023_Data,2025-10-25_00-33-22,Overall,Average Vessel Waiting Time,6.870226537216827
+DQN_Test_2023_Data,2025-10-25_00-33-22,Overall,Standard Error of Vessel Waiting Time,1.2409567068622938
+DQN_Test_2023_Data,2025-10-25_00-33-22,Overall,Maximum Vessel Waiting Time,125.0
+DQN_Test_2023_Data,2025-10-25_00-33-22,Overall,Shortest Vessel Waiting Time,0.9999999999999432
+DQN_Test_2023_Data,2025-10-25_00-33-22,A,Total Vessel Waiting Time,47.166666666666515
+DQN_Test_2023_Data,2025-10-25_00-33-22,A,Average Vessel Waiting Time,2.050724637681153
+DQN_Test_2023_Data,2025-10-25_00-33-22,A,Standard Error of Vessel Waiting Time,0.7326858728956552
+DQN_Test_2023_Data,2025-10-25_00-33-22,A,Maximum Vessel Waiting Time,14.666666666666515
+DQN_Test_2023_Data,2025-10-25_00-33-22,A,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-25_00-33-22,B,Total Vessel Waiting Time,153.8333333333332
+DQN_Test_2023_Data,2025-10-25_00-33-22,B,Average Vessel Waiting Time,2.1073059360730575
+DQN_Test_2023_Data,2025-10-25_00-33-22,B,Standard Error of Vessel Waiting Time,0.39285216625179187
+DQN_Test_2023_Data,2025-10-25_00-33-22,B,Maximum Vessel Waiting Time,15.416666666666629
+DQN_Test_2023_Data,2025-10-25_00-33-22,B,Shortest Vessel Waiting Time,0.9999999999999432
+DQN_Test_2023_Data,2025-10-25_00-33-22,C,Total Vessel Waiting Time,54.416666666666515
+DQN_Test_2023_Data,2025-10-25_00-33-22,C,Average Vessel Waiting Time,2.8640350877192904
+DQN_Test_2023_Data,2025-10-25_00-33-22,C,Standard Error of Vessel Waiting Time,1.035830836429858
+DQN_Test_2023_Data,2025-10-25_00-33-22,C,Maximum Vessel Waiting Time,18.25
+DQN_Test_2023_Data,2025-10-25_00-33-22,C,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-25_00-33-22,CB,Total Vessel Waiting Time,95.96666666666715
+DQN_Test_2023_Data,2025-10-25_00-33-22,CB,Average Vessel Waiting Time,23.991666666666788
+DQN_Test_2023_Data,2025-10-25_00-33-22,CB,Standard Error of Vessel Waiting Time,15.013884777468933
+DQN_Test_2023_Data,2025-10-25_00-33-22,CB,Maximum Vessel Waiting Time,64.16666666666697
+DQN_Test_2023_Data,2025-10-25_00-33-22,CB,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-25_00-33-22,D,Total Vessel Waiting Time,30.5
+DQN_Test_2023_Data,2025-10-25_00-33-22,D,Average Vessel Waiting Time,4.357142857142857
+DQN_Test_2023_Data,2025-10-25_00-33-22,D,Standard Error of Vessel Waiting Time,3.3571428571428568
+DQN_Test_2023_Data,2025-10-25_00-33-22,D,Maximum Vessel Waiting Time,24.5
+DQN_Test_2023_Data,2025-10-25_00-33-22,D,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-25_00-33-22,E,Total Vessel Waiting Time,992.4666666666665
+DQN_Test_2023_Data,2025-10-25_00-33-22,E,Average Vessel Waiting Time,18.04484848484848
+DQN_Test_2023_Data,2025-10-25_00-33-22,E,Standard Error of Vessel Waiting Time,4.061803403634049
+DQN_Test_2023_Data,2025-10-25_00-33-22,E,Maximum Vessel Waiting Time,125.0
+DQN_Test_2023_Data,2025-10-25_00-33-22,E,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-25_00-33-22,F,Total Vessel Waiting Time,40.91666666666663
+DQN_Test_2023_Data,2025-10-25_00-33-22,F,Average Vessel Waiting Time,1.6366666666666652
+DQN_Test_2023_Data,2025-10-25_00-33-22,F,Standard Error of Vessel Waiting Time,0.4838330749798355
+DQN_Test_2023_Data,2025-10-25_00-33-22,F,Maximum Vessel Waiting Time,12.416666666666629
+DQN_Test_2023_Data,2025-10-25_00-33-22,F,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,Overall,Total Reward,-166.86219174286506
+DQN_Test_2023_Data,2025-10-30_18-33-59,Overall,Berth Utilization Rate,0.2710750902785863
+DQN_Test_2023_Data,2025-10-30_18-33-59,Overall,Total Vessel Waiting Time,1037.216666666667
+DQN_Test_2023_Data,2025-10-30_18-33-59,Overall,Average Vessel Waiting Time,6.523375262054509
+DQN_Test_2023_Data,2025-10-30_18-33-59,Overall,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,Overall,Standard Error of Vessel Waiting Time,1.4888661671551615
+DQN_Test_2023_Data,2025-10-30_18-33-59,Overall,Maximum Vessel Waiting Time,125.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,Overall,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,A,Total Vessel Waiting Time,40.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,A,Average Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,A,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,A,Standard Error of Vessel Waiting Time,0.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,A,Maximum Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,A,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,B,Total Vessel Waiting Time,24.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,B,Average Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,B,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,B,Standard Error of Vessel Waiting Time,0.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,B,Maximum Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,B,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,C,Total Vessel Waiting Time,90.16666666666652
+DQN_Test_2023_Data,2025-10-30_18-33-59,C,Average Vessel Waiting Time,12.88095238095236
+DQN_Test_2023_Data,2025-10-30_18-33-59,C,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,C,Standard Error of Vessel Waiting Time,7.747329654793666
+DQN_Test_2023_Data,2025-10-30_18-33-59,C,Maximum Vessel Waiting Time,56.75
+DQN_Test_2023_Data,2025-10-30_18-33-59,C,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,CB,Total Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,CB,Average Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,CB,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,CB,Standard Error of Vessel Waiting Time,
+DQN_Test_2023_Data,2025-10-30_18-33-59,CB,Maximum Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,CB,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,D,Total Vessel Waiting Time,6.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,D,Average Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,D,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,D,Standard Error of Vessel Waiting Time,0.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,D,Maximum Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,D,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,E,Total Vessel Waiting Time,835.5500000000004
+DQN_Test_2023_Data,2025-10-30_18-33-59,E,Average Vessel Waiting Time,18.56777777777779
+DQN_Test_2023_Data,2025-10-30_18-33-59,E,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,E,Standard Error of Vessel Waiting Time,4.666762937919924
+DQN_Test_2023_Data,2025-10-30_18-33-59,E,Maximum Vessel Waiting Time,125.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,E,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,F,Total Vessel Waiting Time,40.5
+DQN_Test_2023_Data,2025-10-30_18-33-59,F,Average Vessel Waiting Time,1.125
+DQN_Test_2023_Data,2025-10-30_18-33-59,F,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_18-33-59,F,Standard Error of Vessel Waiting Time,0.125
+DQN_Test_2023_Data,2025-10-30_18-33-59,F,Maximum Vessel Waiting Time,5.5
+DQN_Test_2023_Data,2025-10-30_18-33-59,F,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,Overall,Total Reward,-161.818689387642
+DQN_Test_2023_Data,2025-10-30_21-34-31,Overall,Berth Utilization Rate,0.2710750902785863
+DQN_Test_2023_Data,2025-10-30_21-34-31,Overall,Total Vessel Waiting Time,984.8833333333334
+DQN_Test_2023_Data,2025-10-30_21-34-31,Overall,Average Vessel Waiting Time,6.395346320346321
+DQN_Test_2023_Data,2025-10-30_21-34-31,Overall,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,Overall,Standard Error of Vessel Waiting Time,1.4985488182553675
+DQN_Test_2023_Data,2025-10-30_21-34-31,Overall,Maximum Vessel Waiting Time,125.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,Overall,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,A,Total Vessel Waiting Time,31.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,A,Average Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,A,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,A,Standard Error of Vessel Waiting Time,0.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,A,Maximum Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,A,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,B,Total Vessel Waiting Time,51.166666666666515
+DQN_Test_2023_Data,2025-10-30_21-34-31,B,Average Vessel Waiting Time,1.827380952380947
+DQN_Test_2023_Data,2025-10-30_21-34-31,B,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,B,Standard Error of Vessel Waiting Time,0.5772377502008923
+DQN_Test_2023_Data,2025-10-30_21-34-31,B,Maximum Vessel Waiting Time,13.75
+DQN_Test_2023_Data,2025-10-30_21-34-31,B,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,C,Total Vessel Waiting Time,21.666666666666515
+DQN_Test_2023_Data,2025-10-30_21-34-31,C,Average Vessel Waiting Time,2.4074074074073906
+DQN_Test_2023_Data,2025-10-30_21-34-31,C,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,C,Standard Error of Vessel Waiting Time,1.0256588935804944
+DQN_Test_2023_Data,2025-10-30_21-34-31,C,Maximum Vessel Waiting Time,9.916666666666515
+DQN_Test_2023_Data,2025-10-30_21-34-31,C,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,CB,Total Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,CB,Average Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,CB,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,CB,Standard Error of Vessel Waiting Time,
+DQN_Test_2023_Data,2025-10-30_21-34-31,CB,Maximum Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,CB,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,D,Total Vessel Waiting Time,3.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,D,Average Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,D,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,D,Standard Error of Vessel Waiting Time,0.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,D,Maximum Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,D,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,E,Total Vessel Waiting Time,836.5500000000004
+DQN_Test_2023_Data,2025-10-30_21-34-31,E,Average Vessel Waiting Time,18.1858695652174
+DQN_Test_2023_Data,2025-10-30_21-34-31,E,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,E,Standard Error of Vessel Waiting Time,4.580134411912377
+DQN_Test_2023_Data,2025-10-30_21-34-31,E,Maximum Vessel Waiting Time,125.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,E,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,F,Total Vessel Waiting Time,40.5
+DQN_Test_2023_Data,2025-10-30_21-34-31,F,Average Vessel Waiting Time,1.125
+DQN_Test_2023_Data,2025-10-30_21-34-31,F,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_21-34-31,F,Standard Error of Vessel Waiting Time,0.125
+DQN_Test_2023_Data,2025-10-30_21-34-31,F,Maximum Vessel Waiting Time,5.5
+DQN_Test_2023_Data,2025-10-30_21-34-31,F,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_23-43-10,Overall,Total Reward,-154.82741756719312
+DQN_Test_2023_Data,2025-10-30_23-43-10,Overall,Berth Utilization Rate,0.2710750902785863
+DQN_Test_2023_Data,2025-10-30_23-43-10,Overall,Total Vessel Waiting Time,995.3833333333334
+DQN_Test_2023_Data,2025-10-30_23-43-10,Overall,Average Vessel Waiting Time,6.7713151927437645
+DQN_Test_2023_Data,2025-10-30_23-43-10,Overall,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_23-43-10,Overall,Standard Error of Vessel Waiting Time,1.5697304122325917
+DQN_Test_2023_Data,2025-10-30_23-43-10,Overall,Maximum Vessel Waiting Time,125.0
+DQN_Test_2023_Data,2025-10-30_23-43-10,Overall,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_23-43-10,A,Total Vessel Waiting Time,47.666666666666515
+DQN_Test_2023_Data,2025-10-30_23-43-10,A,Average Vessel Waiting Time,1.401960784313721
+DQN_Test_2023_Data,2025-10-30_23-43-10,A,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_23-43-10,A,Standard Error of Vessel Waiting Time,0.401960784313721
+DQN_Test_2023_Data,2025-10-30_23-43-10,A,Maximum Vessel Waiting Time,14.666666666666515
+DQN_Test_2023_Data,2025-10-30_23-43-10,A,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_23-43-10,B,Total Vessel Waiting Time,26.416666666666515
+DQN_Test_2023_Data,2025-10-30_23-43-10,B,Average Vessel Waiting Time,1.6510416666666572
+DQN_Test_2023_Data,2025-10-30_23-43-10,B,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_23-43-10,B,Standard Error of Vessel Waiting Time,0.6510416666666572
+DQN_Test_2023_Data,2025-10-30_23-43-10,B,Maximum Vessel Waiting Time,11.416666666666515
+DQN_Test_2023_Data,2025-10-30_23-43-10,B,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_23-43-10,C,Total Vessel Waiting Time,39.25
+DQN_Test_2023_Data,2025-10-30_23-43-10,C,Average Vessel Waiting Time,3.925
+DQN_Test_2023_Data,2025-10-30_23-43-10,C,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_23-43-10,C,Standard Error of Vessel Waiting Time,2.0241005470804536
+DQN_Test_2023_Data,2025-10-30_23-43-10,C,Maximum Vessel Waiting Time,20.333333333333485
+DQN_Test_2023_Data,2025-10-30_23-43-10,C,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_23-43-10,CB,Total Vessel Waiting Time,2.0
+DQN_Test_2023_Data,2025-10-30_23-43-10,CB,Average Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_23-43-10,CB,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_23-43-10,CB,Standard Error of Vessel Waiting Time,0.0
+DQN_Test_2023_Data,2025-10-30_23-43-10,CB,Maximum Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_23-43-10,CB,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_23-43-10,D,Total Vessel Waiting Time,4.0
+DQN_Test_2023_Data,2025-10-30_23-43-10,D,Average Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_23-43-10,D,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_23-43-10,D,Standard Error of Vessel Waiting Time,0.0
+DQN_Test_2023_Data,2025-10-30_23-43-10,D,Maximum Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_23-43-10,D,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_23-43-10,E,Total Vessel Waiting Time,836.5500000000004
+DQN_Test_2023_Data,2025-10-30_23-43-10,E,Average Vessel Waiting Time,18.1858695652174
+DQN_Test_2023_Data,2025-10-30_23-43-10,E,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_23-43-10,E,Standard Error of Vessel Waiting Time,4.580134411912377
+DQN_Test_2023_Data,2025-10-30_23-43-10,E,Maximum Vessel Waiting Time,125.0
+DQN_Test_2023_Data,2025-10-30_23-43-10,E,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_23-43-10,F,Total Vessel Waiting Time,39.5
+DQN_Test_2023_Data,2025-10-30_23-43-10,F,Average Vessel Waiting Time,1.1285714285714286
+DQN_Test_2023_Data,2025-10-30_23-43-10,F,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-30_23-43-10,F,Standard Error of Vessel Waiting Time,0.12857142857142861
+DQN_Test_2023_Data,2025-10-30_23-43-10,F,Maximum Vessel Waiting Time,5.5
+DQN_Test_2023_Data,2025-10-30_23-43-10,F,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,Overall,Total Reward,-140.8125935162095
+DQN_Test_2023_Data,2025-10-31_00-09-08,Overall,Berth Utilization Rate,0.2710750902785863
+DQN_Test_2023_Data,2025-10-31_00-09-08,Overall,Total Vessel Waiting Time,977.5500000000004
+DQN_Test_2023_Data,2025-10-31_00-09-08,Overall,Average Vessel Waiting Time,7.350000000000003
+DQN_Test_2023_Data,2025-10-31_00-09-08,Overall,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,Overall,Standard Error of Vessel Waiting Time,1.7254944359751065
+DQN_Test_2023_Data,2025-10-31_00-09-08,Overall,Maximum Vessel Waiting Time,125.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,Overall,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,A,Total Vessel Waiting Time,25.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,A,Average Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,A,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,A,Standard Error of Vessel Waiting Time,0.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,A,Maximum Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,A,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,B,Total Vessel Waiting Time,11.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,B,Average Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,B,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,B,Standard Error of Vessel Waiting Time,0.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,B,Maximum Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,B,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,C,Total Vessel Waiting Time,58.5
+DQN_Test_2023_Data,2025-10-31_00-09-08,C,Average Vessel Waiting Time,6.5
+DQN_Test_2023_Data,2025-10-31_00-09-08,C,Median Vessel Waiting Time,7.916666666666515
+DQN_Test_2023_Data,2025-10-31_00-09-08,C,Standard Error of Vessel Waiting Time,2.142268253885351
+DQN_Test_2023_Data,2025-10-31_00-09-08,C,Maximum Vessel Waiting Time,20.333333333333485
+DQN_Test_2023_Data,2025-10-31_00-09-08,C,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,CB,Total Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,CB,Average Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,CB,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,CB,Standard Error of Vessel Waiting Time,
+DQN_Test_2023_Data,2025-10-31_00-09-08,CB,Maximum Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,CB,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,D,Total Vessel Waiting Time,5.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,D,Average Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,D,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,D,Standard Error of Vessel Waiting Time,0.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,D,Maximum Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,D,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,E,Total Vessel Waiting Time,836.5500000000004
+DQN_Test_2023_Data,2025-10-31_00-09-08,E,Average Vessel Waiting Time,18.1858695652174
+DQN_Test_2023_Data,2025-10-31_00-09-08,E,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,E,Standard Error of Vessel Waiting Time,4.580134411912377
+DQN_Test_2023_Data,2025-10-31_00-09-08,E,Maximum Vessel Waiting Time,125.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,E,Shortest Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,F,Total Vessel Waiting Time,40.5
+DQN_Test_2023_Data,2025-10-31_00-09-08,F,Average Vessel Waiting Time,1.125
+DQN_Test_2023_Data,2025-10-31_00-09-08,F,Median Vessel Waiting Time,1.0
+DQN_Test_2023_Data,2025-10-31_00-09-08,F,Standard Error of Vessel Waiting Time,0.125
+DQN_Test_2023_Data,2025-10-31_00-09-08,F,Maximum Vessel Waiting Time,5.5
+DQN_Test_2023_Data,2025-10-31_00-09-08,F,Shortest Vessel Waiting Time,1.0

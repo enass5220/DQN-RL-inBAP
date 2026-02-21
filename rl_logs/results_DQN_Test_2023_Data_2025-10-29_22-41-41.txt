@@ -1,0 +1,29 @@
+--- Performance Metrics for DQN_Test_2023_Data ---
+Timestamp: 2025-10-29_22-41-41
+
+Total Reward: -140.78
+Berth Utilization Rate: 27.11%
+
+--- Overall Waiting Time Metrics ---
+  Total Vessel Waiting Time: 936.97
+  Average Vessel Waiting Time: 7.04
+  Standard Error of Vessel Waiting Time: 1.73
+  Maximum Vessel Waiting Time: 125.00
+  Shortest Vessel Waiting Time: 1.00
+
+--- Waiting Time Metrics by Cargo Type ---
+
+  Cargo Type: A
+    Total Vessel Waiting Time: 27.00    Average Vessel Waiting Time: 1.00    Standard Error of Vessel Waiting Time: 0.00    Maximum Vessel Waiting Time: 1.00    Shortest Vessel Waiting Time: 1.00
+  Cargo Type: B
+    Total Vessel Waiting Time: 13.00    Average Vessel Waiting Time: 1.00    Standard Error of Vessel Waiting Time: 0.00    Maximum Vessel Waiting Time: 1.00    Shortest Vessel Waiting Time: 1.00
+  Cargo Type: C
+    Total Vessel Waiting Time: 13.92    Average Vessel Waiting Time: 2.78    Standard Error of Vessel Waiting Time: 1.78    Maximum Vessel Waiting Time: 9.92    Shortest Vessel Waiting Time: 1.00
+  Cargo Type: CB
+    Total Vessel Waiting Time: 2.00    Average Vessel Waiting Time: 1.00    Standard Error of Vessel Waiting Time: 0.00    Maximum Vessel Waiting Time: 1.00    Shortest Vessel Waiting Time: 1.00
+  Cargo Type: D
+    Total Vessel Waiting Time: 4.00    Average Vessel Waiting Time: 1.00    Standard Error of Vessel Waiting Time: 0.00    Maximum Vessel Waiting Time: 1.00    Shortest Vessel Waiting Time: 1.00
+  Cargo Type: E
+    Total Vessel Waiting Time: 836.55    Average Vessel Waiting Time: 18.19    Standard Error of Vessel Waiting Time: 4.58    Maximum Vessel Waiting Time: 125.00    Shortest Vessel Waiting Time: 1.00
+  Cargo Type: F
+    Total Vessel Waiting Time: 40.50    Average Vessel Waiting Time: 1.12    Standard Error of Vessel Waiting Time: 0.12    Maximum Vessel Waiting Time: 5.50    Shortest Vessel Waiting Time: 1.00

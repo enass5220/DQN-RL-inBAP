@@ -1,0 +1,31 @@
+--- Performance Metrics for DQN_Test_2023_Data ---
+Timestamp: 2025-10-30_21-34-31
+
+Total Reward: -161.82
+Berth Utilization Rate: 27.11%
+
+--- Overall Waiting Time Metrics ---
+  Total Vessel Waiting Time: 984.88
+  Average Vessel Waiting Time: 6.40
+  Median Vessel Waiting Time: 1.00
+  Standard Error of Vessel Waiting Time: 1.50
+  Maximum Vessel Waiting Time: 125.00
+  Shortest Vessel Waiting Time: 1.00
+
+--- Waiting Time Metrics by Cargo Type ---
+
+  Cargo Type: A
+    Total Vessel Waiting Time: 31.00    Average Vessel Waiting Time: 1.00    Median Vessel Waiting Time: 1.00    Standard Error of Vessel Waiting Time: 0.00    Maximum Vessel Waiting Time: 1.00    Shortest Vessel Waiting Time: 1.00
+  Cargo Type: B
+    Total Vessel Waiting Time: 51.17    Average Vessel Waiting Time: 1.83    Median Vessel Waiting Time: 1.00    Standard Error of Vessel Waiting Time: 0.58    Maximum Vessel Waiting Time: 13.75    Shortest Vessel Waiting Time: 1.00
+  Cargo Type: C
+    Total Vessel Waiting Time: 21.67    Average Vessel Waiting Time: 2.41    Median Vessel Waiting Time: 1.00    Standard Error of Vessel Waiting Time: 1.03    Maximum Vessel Waiting Time: 9.92    Shortest Vessel Waiting Time: 1.00
+  Cargo Type: CB
+    Total Vessel Waiting Time: 1.00    Average Vessel Waiting Time: 1.00    Median Vessel Waiting Time: 1.00    Standard Error of Vessel Waiting Time: N/A
+    Maximum Vessel Waiting Time: 1.00    Shortest Vessel Waiting Time: 1.00
+  Cargo Type: D
+    Total Vessel Waiting Time: 3.00    Average Vessel Waiting Time: 1.00    Median Vessel Waiting Time: 1.00    Standard Error of Vessel Waiting Time: 0.00    Maximum Vessel Waiting Time: 1.00    Shortest Vessel Waiting Time: 1.00
+  Cargo Type: E
+    Total Vessel Waiting Time: 836.55    Average Vessel Waiting Time: 18.19    Median Vessel Waiting Time: 1.00    Standard Error of Vessel Waiting Time: 4.58    Maximum Vessel Waiting Time: 125.00    Shortest Vessel Waiting Time: 1.00
+  Cargo Type: F
+    Total Vessel Waiting Time: 40.50    Average Vessel Waiting Time: 1.12    Median Vessel Waiting Time: 1.00    Standard Error of Vessel Waiting Time: 0.12    Maximum Vessel Waiting Time: 5.50    Shortest Vessel Waiting Time: 1.00
